@@ -1,0 +1,49 @@
+@font-face {
+    src:
+        url("../fonts/Merriweather_Regular.woff2") format("woff2"),
+        url("../fonts/Merriweather_Regular.woff") format("woff"),
+        url("../fonts/Merriweather_Regular.ttf") format("truetype"),
+        url("../fonts/Merriweather_Regular.otf") format("opentype");
+    font-family: "Merriweather";
+    font-weight: 400;
+}
+
+@font-face {
+    src:
+        url("../fonts/Merriweather_Bold.woff2") format("woff2"),
+        url("../fonts/Merriweather_Bold.woff") format("woff"),
+        url("../fonts/Merriweather_Bold.ttf") format("truetype"),
+        url("../fonts/Merriweather_Bold.otf") format("opentype");
+    font-family: "Merriweather";
+    font-weight: 700;
+}
+
+@font-face {
+    src:
+        url("../fonts/Golos-Text_SemiBold.woff2") format("woff2"),
+        url("../fonts/Golos-Text_SemiBold.woff") format("woff"),
+        url("../fonts/Golos-Text_SemiBold.ttf") format("truetype"),
+        url("../fonts/Golos-Text_SemiBold.otf") format("opentype");
+    font-family: "Golos-Text";
+    font-weight: 600;
+}
+
+@font-face {
+    src:
+        url("../fonts/Golos-Text_Regular.woff2") format("woff2"),
+        url("../fonts/Golos-Text_Regular.woff") format("woff"),
+        url("../fonts/Golos-Text_Regular.ttf") format("truetype"),
+        url("../fonts/Golos-Text_Regular.otf") format("opentype");
+    font-family: "Golos-Text";
+    font-weight: 400;
+}
+
+@font-face {
+    src:
+        url("../fonts/Golos-Text_Medium.woff2") format("woff2"),
+        url("../fonts/Golos-Text_Medium.woff") format("woff"),
+        url("../fonts/Golos-Text_Medium.ttf") format("truetype"),
+        url("../fonts/Golos-Text_Medium.otf") format("opentype");
+    font-family: "Golos-Text";
+    font-weight: 500;
+}
